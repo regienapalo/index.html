@@ -1,0 +1,53 @@
+p{
+	color: blue;
+	background: whitesmoke;
+  width: 200px;
+  text-align: center;
+  border: solid;
+  border-color: mediumvioletred;
+  float: center;
+  align-items: center;
+  margin-left: 500px;
+}
+
+  #sirtoni{
+ 	color: pink;
+ 	width: 150px;
+ 	height: 100px;
+ 	background: black;
+ 	text-align: center;
+ 	font: italic;
+ 	align-content: center;
+ 	margin: 10px;
+ 	border:2px solid;
+ 	border-color: red;
+  margin-left: 520px;
+ }
+
+ body{
+  background-image: url('https://www.freevector.com/uploads/vector/preview/48831/VecteezyWoodBackgroundAT2308_generated.jpg');
+ }
+
+ #sirkevin{
+  align-content: center;
+  height: 30px;
+  width: 50px;
+ }
+
+ #taskInput{
+  width: 300px;
+  height: 20px;
+  align-content: center;
+  margin-left: 450px;
+ }
+li{
+  margin-left: 400px;
+  background-color: lightgreen;
+  width: 400px;
+  border: solid;
+  border-color: brown;
+}
+h1{
+  margin-left: 520px;
+}
+
